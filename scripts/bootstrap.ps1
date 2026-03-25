@@ -382,6 +382,21 @@ function Get-ExistingForkRepo {
         [string]$UpstreamRepo
     )
 
+    $defaultForkRepo = "$Login/$($UpstreamRepo.Split('/')[1])"
+    & $GhPath repo view $defaultForkRepo *> $null
+    if ($LASTEXITCODE -eq 0) {
+        return $defaultForkRepo
+    }
+
+    $forkQuery = ".[] | select(.owner.login == `"$Login`") | .full_name"
+    $forkMatches = Invoke-GhText $GhPath @("api", "repos/$UpstreamRepo/forks?per_page=100", "--paginate", "--jq", $forkQuery)
+    foreach ($forkMatch in @($forkMatches -split "\r?\n")) {
+        $trimmedForkMatch = $forkMatch.Trim()
+        if (-not [string]::IsNullOrWhiteSpace($trimmedForkMatch)) {
+            return $trimmedForkMatch
+        }
+    }
+
     $repos = Invoke-GhJson $GhPath @("repo", "list", $Login, "--fork", "--limit", "1000", "--json", "nameWithOwner,parent")
     foreach ($repo in @($repos)) {
         if ($null -ne $repo.parent -and $repo.parent.nameWithOwner -eq $UpstreamRepo) {

@@ -56,6 +56,9 @@ class BootstrapWindowsWrapperTests(unittest.TestCase):
     def test_windows_wrapper_prefers_existing_fork_then_creates_one(self) -> None:
         wrapper = self._read_wrapper()
 
+        self.assertIn('$defaultForkRepo = "$Login/$($UpstreamRepo.Split(\'/\')[1])"', wrapper)
+        self.assertIn('& $GhPath repo view $defaultForkRepo *> $null', wrapper)
+        self.assertIn('repos/$UpstreamRepo/forks?per_page=100', wrapper)
         self.assertIn('Invoke-GhJson $GhPath @("repo", "list", $Login, "--fork", "--limit", "1000", "--json", "nameWithOwner,parent")', wrapper)
         self.assertIn('Write-Info "Using existing fork: $existingFork"', wrapper)
         self.assertIn('& $GhPath repo fork $UpstreamRepo --clone=false --remote=false', wrapper)
