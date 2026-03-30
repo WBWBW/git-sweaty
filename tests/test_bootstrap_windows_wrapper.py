@@ -130,7 +130,12 @@ class BootstrapWindowsWrapperTests(unittest.TestCase):
         self.assertIn('$scriptBlock.ToString()', wrapper)
         self.assertIn('Set-Content -Path $tempScriptPath -Value $scriptText -Encoding UTF8', wrapper)
         self.assertIn('& $powershellPath -NoProfile -ExecutionPolicy Bypass -File $tempScriptPath @SetupArgs', wrapper)
+        self.assertIn('return [int]$LASTEXITCODE', wrapper)
+        self.assertIn('return 0', wrapper)
         self.assertIn('Invoke-SelfFromTempScriptIfNeeded -SetupArgs $SetupArgs', wrapper)
+        self.assertIn('$relaunchExitCode = Invoke-SelfFromTempScriptIfNeeded -SetupArgs $SetupArgs', wrapper)
+        self.assertIn('if ($null -ne $relaunchExitCode)', wrapper)
+        self.assertIn('if ([int]$relaunchExitCode -ne 0)', wrapper)
         self.assertIn('Remove-Item -Path $tempScriptPath -Force -ErrorAction SilentlyContinue', wrapper)
 
     def test_windows_wrapper_executes_native_flow_in_expected_order(self) -> None:

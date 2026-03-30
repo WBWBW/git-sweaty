@@ -132,9 +132,9 @@ function Invoke-SelfFromTempScriptIfNeeded {
         Set-Content -Path $tempScriptPath -Value $scriptText -Encoding UTF8
         & $powershellPath -NoProfile -ExecutionPolicy Bypass -File $tempScriptPath @SetupArgs
         if ($null -ne $LASTEXITCODE) {
-            exit [int]$LASTEXITCODE
+            return [int]$LASTEXITCODE
         }
-        exit 0
+        return 0
     } finally {
         Remove-Item -Path $tempScriptPath -Force -ErrorAction SilentlyContinue
     }
@@ -704,7 +704,13 @@ function Invoke-OnlineSetup {
 }
 
 try {
-    Invoke-SelfFromTempScriptIfNeeded -SetupArgs $SetupArgs
+    $relaunchExitCode = Invoke-SelfFromTempScriptIfNeeded -SetupArgs $SetupArgs
+    if ($null -ne $relaunchExitCode) {
+        if ([int]$relaunchExitCode -ne 0) {
+            exit [int]$relaunchExitCode
+        }
+        return
+    }
 
     Write-Info "Preparing native Windows setup (online-only, no WSL required)..."
 
