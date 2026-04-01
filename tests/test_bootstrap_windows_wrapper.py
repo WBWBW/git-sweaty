@@ -111,6 +111,7 @@ class BootstrapWindowsWrapperTests(unittest.TestCase):
         self.assertIn('[string[]]$SetupArgs', wrapper)
         self.assertIn('if ($null -eq $SetupArgs -or $SetupArgs.Count -eq 0)', wrapper)
         self.assertIn('Get-SetupArgValue -SetupArgs $SetupArgs -Name "--repo"', wrapper)
+        self.assertIn('$pythonArgs = @() + $PythonRuntime.BaseArgs + @("-u", $setupScript)', wrapper)
         self.assertIn('if ([string]::IsNullOrWhiteSpace((Get-SetupArgValue -SetupArgs $SetupArgs -Name "--repo")))', wrapper)
         self.assertIn('$pythonArgs += @("--repo", $TargetRepo)', wrapper)
         self.assertIn('if ($null -ne $SetupArgs -and $SetupArgs.Count -gt 0)', wrapper)

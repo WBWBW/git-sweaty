@@ -700,7 +700,7 @@ function Invoke-OnlineSetup {
                 $env:Path = "$ghDir;$env:Path"
             }
         }
-        $pythonArgs = @() + $PythonRuntime.BaseArgs + @($setupScript)
+        $pythonArgs = @() + $PythonRuntime.BaseArgs + @("-u", $setupScript)
         if ([string]::IsNullOrWhiteSpace((Get-SetupArgValue -SetupArgs $SetupArgs -Name "--repo"))) {
             $pythonArgs += @("--repo", $TargetRepo)
         }
