@@ -1,11 +1,14 @@
 {
   "activity_scope": {
-    "exclude_types": [],
+    "exclude_types": [
+      "Hike",
+      "Yoga"
+    ],
     "include_all_types": true
   },
   "after": 0,
   "completed": true,
-  "last_run_utc": "2026-05-01T15:44:15.029755+00:00",
+  "last_run_utc": "2026-05-01T16:17:26.154272+00:00",
   "newest_seen_ts": 1777567255,
   "next_before": null,
   "oldest_seen_ts": 1367937918,
