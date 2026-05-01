@@ -11921,6 +11921,19 @@
     "year": 2017
   },
   {
+    "date": "2017-09-11",
+    "distance": 7205.5,
+    "elevation_gain": 475.2,
+    "id": "1179752737",
+    "moving_time": 7843.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2017-09-11T11:49:17Z",
+    "type": "Hike",
+    "year": 2017
+  },
+  {
     "date": "2017-09-13",
     "distance": 5446.2,
     "elevation_gain": 25.7,
@@ -15444,6 +15457,19 @@
     "year": 2018
   },
   {
+    "date": "2018-07-09",
+    "distance": 7420.8,
+    "elevation_gain": 219.2,
+    "id": "1692149592",
+    "moving_time": 7578.0,
+    "name": "Barclay Lake Trail",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2018-07-09T10:31:16Z",
+    "type": "Hike",
+    "year": 2018
+  },
+  {
     "date": "2018-07-10",
     "distance": 8137.2,
     "elevation_gain": 27.5,
@@ -15571,6 +15597,19 @@
     "raw_type": "Run",
     "start_date_local": "2018-07-21T09:23:18Z",
     "type": "Run",
+    "year": 2018
+  },
+  {
+    "date": "2018-07-22",
+    "distance": 10434.2,
+    "elevation_gain": 524.3,
+    "id": "1721318881",
+    "moving_time": 12218.0,
+    "name": "Lake 22 Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2018-07-22T08:29:46Z",
+    "type": "Hike",
     "year": 2018
   },
   {
@@ -18486,6 +18525,32 @@
     "year": 2019
   },
   {
+    "date": "2019-05-27",
+    "distance": 3853.6,
+    "elevation_gain": 6.2,
+    "id": "2402756493",
+    "moving_time": 4208.0,
+    "name": "Down Heather Lake",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2019-05-27T12:14:47Z",
+    "type": "Hike",
+    "year": 2019
+  },
+  {
+    "date": "2019-05-27",
+    "distance": 6016.7,
+    "elevation_gain": 382.1,
+    "id": "2402756559",
+    "moving_time": 6609.0,
+    "name": "Heather Lake",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2019-05-27T09:25:11Z",
+    "type": "Hike",
+    "year": 2019
+  },
+  {
     "date": "2019-05-28",
     "distance": 9787.0,
     "elevation_gain": 22.1,
@@ -18756,6 +18821,19 @@
     "raw_type": "Run",
     "start_date_local": "2019-07-04T08:43:09Z",
     "type": "Run",
+    "year": 2019
+  },
+  {
+    "date": "2019-07-05",
+    "distance": 5564.3,
+    "elevation_gain": 102.7,
+    "id": "2507381020",
+    "moving_time": 4942.0,
+    "name": "Clearwater",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2019-07-05T12:30:44Z",
+    "type": "Hike",
     "year": 2019
   },
   {
@@ -23127,6 +23205,19 @@
     "year": 2020
   },
   {
+    "date": "2020-08-31",
+    "distance": 6117.2,
+    "elevation_gain": 212.3,
+    "id": "3994208216",
+    "moving_time": 5403.0,
+    "name": "Talapus Lake Trail",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2020-08-31T16:23:25Z",
+    "type": "Hike",
+    "year": 2020
+  },
+  {
     "date": "2020-09-01",
     "distance": 8469.7,
     "elevation_gain": 30.5,
@@ -24684,19 +24775,6 @@
     "raw_type": "Run",
     "start_date_local": "2021-01-28T10:36:02Z",
     "type": "Run",
-    "year": 2021
-  },
-  {
-    "date": "2021-01-28",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "4696696277",
-    "moving_time": 622.0,
-    "name": "Core Training",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2021-01-28T11:50:45Z",
-    "type": "Workout",
     "year": 2021
   },
   {
@@ -26621,6 +26699,19 @@
     "raw_type": "Run",
     "start_date_local": "2021-07-04T10:45:34Z",
     "type": "Run",
+    "year": 2021
+  },
+  {
+    "date": "2021-07-05",
+    "distance": 3805.4,
+    "elevation_gain": 23.1,
+    "id": "5582201589",
+    "moving_time": 3376.0,
+    "name": "Hiking",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2021-07-05T10:27:54Z",
+    "type": "Hike",
     "year": 2021
   },
   {
@@ -30368,6 +30459,19 @@
     "year": 2022
   },
   {
+    "date": "2022-08-13",
+    "distance": 7037.9,
+    "elevation_gain": 271.1,
+    "id": "7634419379",
+    "moving_time": 5938.0,
+    "name": "Hiking",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2022-08-13T18:13:56Z",
+    "type": "Hike",
+    "year": 2022
+  },
+  {
     "date": "2022-08-14",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -33761,6 +33865,19 @@
     "year": 2023
   },
   {
+    "date": "2023-05-27",
+    "distance": 2211.4,
+    "elevation_gain": 18.7,
+    "id": "9153517371",
+    "moving_time": 1737.0,
+    "name": "Hiking",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2023-05-27T16:06:12Z",
+    "type": "Hike",
+    "year": 2023
+  },
+  {
     "date": "2023-05-29",
     "distance": 16602.6,
     "elevation_gain": 60.3,
@@ -35685,19 +35802,6 @@
     "year": 2024
   },
   {
-    "date": "2024-03-09",
-    "distance": 534.3,
-    "elevation_gain": 5.3,
-    "id": "10924061887",
-    "moving_time": 277.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-09T07:40:16Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
     "date": "2024-03-10",
     "distance": 5629.9,
     "elevation_gain": 28.6,
@@ -35708,32 +35812,6 @@
     "raw_type": "Run",
     "start_date_local": "2024-03-10T09:23:17Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-10",
-    "distance": 536.0,
-    "elevation_gain": 4.2,
-    "id": "10931932749",
-    "moving_time": 185.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-10T10:03:26Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-11",
-    "distance": 527.1,
-    "elevation_gain": 3.4,
-    "id": "10936663403",
-    "moving_time": 371.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-11T07:22:08Z",
-    "type": "Workout",
     "year": 2024
   },
   {
@@ -35763,32 +35841,6 @@
     "year": 2024
   },
   {
-    "date": "2024-03-14",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "10974465325",
-    "moving_time": 2785.0,
-    "name": "Scubadiving -36 ft",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-14T11:10:29Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-14",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "10974472664",
-    "moving_time": 1654.0,
-    "name": "Scubadiving -20 ft.",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-14T09:44:35Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
     "date": "2024-03-15",
     "distance": 5234.4,
     "elevation_gain": 7.6,
@@ -35815,84 +35867,6 @@
     "year": 2024
   },
   {
-    "date": "2024-03-18",
-    "distance": 505.6,
-    "elevation_gain": 4.7,
-    "id": "10986659653",
-    "moving_time": 173.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-18T09:01:45Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-18",
-    "distance": 1227.2,
-    "elevation_gain": 9.5,
-    "id": "10988289015",
-    "moving_time": 854.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-18T12:26:39Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-18",
-    "distance": 1105.0,
-    "elevation_gain": 14.3,
-    "id": "10988622558",
-    "moving_time": 888.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-18T13:03:28Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-19",
-    "distance": 710.1,
-    "elevation_gain": 0.0,
-    "id": "10995846485",
-    "moving_time": 343.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-19T12:39:30Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-20",
-    "distance": 516.4,
-    "elevation_gain": 3.9,
-    "id": "11000929464",
-    "moving_time": 227.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-20T07:53:18Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-21",
-    "distance": 558.8,
-    "elevation_gain": 6.0,
-    "id": "11008068585",
-    "moving_time": 386.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-21T07:21:27Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
     "date": "2024-03-21",
     "distance": 5943.5,
     "elevation_gain": 25.2,
@@ -35906,32 +35880,6 @@
     "year": 2024
   },
   {
-    "date": "2024-03-22",
-    "distance": 535.5,
-    "elevation_gain": 6.0,
-    "id": "11018132636",
-    "moving_time": 398.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-22T19:30:27Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-24",
-    "distance": 646.9,
-    "elevation_gain": 8.0,
-    "id": "11029072562",
-    "moving_time": 418.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-24T07:45:55Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
     "date": "2024-03-24",
     "distance": 16080.2,
     "elevation_gain": 39.4,
@@ -35942,19 +35890,6 @@
     "raw_type": "Run",
     "start_date_local": "2024-03-24T09:32:51Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-25",
-    "distance": 509.5,
-    "elevation_gain": 8.9,
-    "id": "11035201060",
-    "moving_time": 233.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-25T07:57:28Z",
-    "type": "Workout",
     "year": 2024
   },
   {
@@ -35998,19 +35933,6 @@
   },
   {
     "date": "2024-03-26",
-    "distance": 500.9,
-    "elevation_gain": 0.0,
-    "id": "11042113983",
-    "moving_time": 185.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-26T07:57:55Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-26",
     "distance": 10000.9,
     "elevation_gain": 32.6,
     "id": "11043551704",
@@ -36020,32 +35942,6 @@
     "raw_type": "Run",
     "start_date_local": "2024-03-26T10:22:17Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-27",
-    "distance": 572.3,
-    "elevation_gain": 5.9,
-    "id": "11049142912",
-    "moving_time": 379.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-27T08:00:45Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-28",
-    "distance": 521.5,
-    "elevation_gain": 6.3,
-    "id": "11055654598",
-    "moving_time": 379.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-28T07:49:19Z",
-    "type": "Workout",
     "year": 2024
   },
   {
@@ -36063,19 +35959,6 @@
   },
   {
     "date": "2024-03-29",
-    "distance": 534.2,
-    "elevation_gain": 4.5,
-    "id": "11062308105",
-    "moving_time": 335.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-29T07:28:58Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-29",
     "distance": 10017.0,
     "elevation_gain": 36.7,
     "id": "11066150203",
@@ -36089,19 +35972,6 @@
   },
   {
     "date": "2024-03-30",
-    "distance": 534.6,
-    "elevation_gain": 3.1,
-    "id": "11070226471",
-    "moving_time": 229.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-30T08:39:59Z",
-    "type": "Workout",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-30",
     "distance": 10010.6,
     "elevation_gain": 32.6,
     "id": "11071739443",
@@ -36111,19 +35981,6 @@
     "raw_type": "Run",
     "start_date_local": "2024-03-30T11:07:22Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-31",
-    "distance": 557.7,
-    "elevation_gain": 7.0,
-    "id": "11077509297",
-    "moving_time": 340.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-03-31T08:12:23Z",
-    "type": "Workout",
     "year": 2024
   },
   {
@@ -36163,19 +36020,6 @@
     "raw_type": "Run",
     "start_date_local": "2024-04-02T08:17:14Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-04-06",
-    "distance": 526.7,
-    "elevation_gain": 5.8,
-    "id": "11119580967",
-    "moving_time": 223.0,
-    "name": "Wilfried took Natto for a walk with his Fi dog collar",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2024-04-06T07:10:56Z",
-    "type": "Workout",
     "year": 2024
   },
   {
@@ -39599,19 +39443,6 @@
   },
   {
     "date": "2025-04-28",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "14314006231",
-    "moving_time": 1553.0,
-    "name": "Going Heavy with Runna \u2705",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2025-04-28T10:21:17Z",
-    "type": "Workout",
-    "year": 2025
-  },
-  {
-    "date": "2025-04-28",
     "distance": 5783.3,
     "elevation_gain": 67.4,
     "id": "14314028193",
@@ -40482,6 +40313,19 @@
     "year": 2025
   },
   {
+    "date": "2025-08-01",
+    "distance": 4573.2,
+    "elevation_gain": 167.5,
+    "id": "15319812749",
+    "moving_time": 5048.0,
+    "name": "Hiking @ Capitol Reef",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-08-01T13:59:17Z",
+    "type": "Hike",
+    "year": 2025
+  },
+  {
     "date": "2025-08-02",
     "distance": 8007.1,
     "elevation_gain": 54.9,
@@ -40492,6 +40336,19 @@
     "raw_type": "Run",
     "start_date_local": "2025-08-02T09:03:47Z",
     "type": "Run",
+    "year": 2025
+  },
+  {
+    "date": "2025-08-03",
+    "distance": 3492.2,
+    "elevation_gain": 174.3,
+    "id": "15335535281",
+    "moving_time": 3413.0,
+    "name": "Queens Garden {+ missing GPS Wallstreet)",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-08-03T13:22:47Z",
+    "type": "Hike",
     "year": 2025
   },
   {
