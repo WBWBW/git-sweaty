@@ -22616,6 +22616,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 12,
+      "subtype": "PhysicalTherapy",
+      "type": "PhysicalTherapy",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50005,6 +50012,17 @@
       }
     },
     "2026": {
+      "PhysicalTherapy": {
+        "2026-05-02": {
+          "activity_ids": [
+            "18350891674"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1245.0
+        }
+      },
       "Ride": {
         "2026-02-28": {
           "activity_ids": [
@@ -50637,7 +50655,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:21:20.930101+00:00",
+  "generated_at": "2026-05-03T15:20:46.979939+00:00",
   "other_bucket": "OtherSports",
   "repo": "WBWBW/git-sweaty",
   "source": "strava",
@@ -50649,6 +50667,10 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "PhysicalTherapy": {
+      "accent": "#9b5de5",
+      "label": "Physical Therapy"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -50673,7 +50695,8 @@
     "Ride",
     "Run",
     "Walk",
-    "WeightTraining"
+    "WeightTraining",
+    "PhysicalTherapy"
   ],
   "units": {
     "distance": "km",
