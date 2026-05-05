@@ -42027,5 +42027,18 @@
     "start_date_local": "2026-05-03T09:21:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18375234245",
+    "moving_time": 1305.0,
+    "name": "Apple Fitness+ Strength",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-04T10:05:49Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
   }
 ]
