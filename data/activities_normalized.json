@@ -42040,5 +42040,18 @@
     "start_date_local": "2026-05-04T10:05:49Z",
     "type": "PhysicalTherapy",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 6618.0,
+    "elevation_gain": 24.6,
+    "id": "18389040412",
+    "moving_time": 2591.0,
+    "name": "Running \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T10:10:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
