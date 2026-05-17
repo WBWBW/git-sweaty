@@ -42157,5 +42157,18 @@
     "start_date_local": "2026-05-15T08:40:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 16012.2,
+    "elevation_gain": 47.4,
+    "id": "18539143972",
+    "moving_time": 6180.0,
+    "name": "Sunday Morning Run \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T09:25:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
