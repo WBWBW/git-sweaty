@@ -42196,5 +42196,18 @@
     "start_date_local": "2026-05-20T08:04:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 8713.5,
+    "elevation_gain": 24.7,
+    "id": "18597172709",
+    "moving_time": 3344.0,
+    "name": "Fast 8-4-2s \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T08:22:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
