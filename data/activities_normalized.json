@@ -41719,7 +41719,7 @@
   {
     "date": "2026-04-07",
     "distance": 5572.1,
-    "elevation_gain": 32.8,
+    "elevation_gain": 24.8,
     "id": "18017868811",
     "moving_time": 2210.0,
     "name": "Running \u2601\ufe0f",
@@ -42207,6 +42207,19 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-21T08:22:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 5102.6,
+    "elevation_gain": 25.3,
+    "id": "18610500420",
+    "moving_time": 2071.0,
+    "name": "Friday Morning Run \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T08:52:06Z",
     "type": "Run",
     "year": 2026
   }
