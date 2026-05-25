@@ -42235,5 +42235,18 @@
     "start_date_local": "2026-05-23T08:31:21Z",
     "type": "PhysicalTherapy",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 18027.9,
+    "elevation_gain": 64.1,
+    "id": "18639037170",
+    "moving_time": 6641.0,
+    "name": "Sunday Morning Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T09:19:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
