@@ -42339,5 +42339,18 @@
     "start_date_local": "2026-06-03T09:38:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 5514.0,
+    "elevation_gain": 13.8,
+    "id": "18788221006",
+    "moving_time": 1954.0,
+    "name": "Taper Two Miler \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T11:41:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
