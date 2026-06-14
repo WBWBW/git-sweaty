@@ -22620,8 +22620,8 @@
     {
       "date": "2026-05-02",
       "hour": 12,
-      "subtype": "PhysicalTherapy",
-      "type": "PhysicalTherapy",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
       "year": 2026
     },
     {
@@ -22634,8 +22634,8 @@
     {
       "date": "2026-05-04",
       "hour": 10,
-      "subtype": "PhysicalTherapy",
-      "type": "PhysicalTherapy",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
       "year": 2026
     },
     {
@@ -22648,8 +22648,8 @@
     {
       "date": "2026-05-06",
       "hour": 12,
-      "subtype": "PhysicalTherapy",
-      "type": "PhysicalTherapy",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
       "year": 2026
     },
     {
@@ -22739,8 +22739,8 @@
     {
       "date": "2026-05-23",
       "hour": 8,
-      "subtype": "PhysicalTherapy",
-      "type": "PhysicalTherapy",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
       "year": 2026
     },
     {
@@ -22760,8 +22760,8 @@
     {
       "date": "2026-05-27",
       "hour": 8,
-      "subtype": "PhysicalTherapy",
-      "type": "PhysicalTherapy",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
       "year": 2026
     },
     {
@@ -50222,53 +50222,6 @@
       }
     },
     "2026": {
-      "PhysicalTherapy": {
-        "2026-05-02": {
-          "activity_ids": [
-            "18350891674"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1245.0
-        },
-        "2026-05-04": {
-          "activity_ids": [
-            "18375234245"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1305.0
-        },
-        "2026-05-06": {
-          "activity_ids": [
-            "18403966788"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1242.0
-        },
-        "2026-05-23": {
-          "activity_ids": [
-            "18623744654"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1261.0
-        },
-        "2026-05-27": {
-          "activity_ids": [
-            "18677071074"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1209.0
-        }
-      },
       "Ride": {
         "2026-02-28": {
           "activity_ids": [
@@ -51123,6 +51076,51 @@
           "elevation_gain": 0.0,
           "moving_time": 1265.0
         },
+        "2026-05-02": {
+          "activity_ids": [
+            "18350891674"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1245.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18375234245"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1305.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18403966788"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1242.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18623744654"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1261.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18677071074"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1209.0
+        },
         "2026-06-01": {
           "activity_ids": [
             "18746036880"
@@ -51135,7 +51133,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T15:42:32.405616+00:00",
+  "generated_at": "2026-06-14T15:49:35.380402+00:00",
   "other_bucket": "OtherSports",
   "repo": "WBWBW/git-sweaty",
   "source": "strava",
@@ -51147,10 +51145,6 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
-    },
-    "PhysicalTherapy": {
-      "accent": "#9b5de5",
-      "label": "Physical Therapy"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -51175,8 +51169,7 @@
     "Ride",
     "Run",
     "Walk",
-    "WeightTraining",
-    "PhysicalTherapy"
+    "WeightTraining"
   ],
   "units": {
     "distance": "km",

@@ -42009,10 +42009,10 @@
     "id": "18350891674",
     "moving_time": 1245.0,
     "name": "Apple Fitness+ Strength",
-    "raw_activity_type": "Workout",
-    "raw_type": "PhysicalTherapy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
     "start_date_local": "2026-05-02T12:20:58Z",
-    "type": "PhysicalTherapy",
+    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -42035,10 +42035,10 @@
     "id": "18375234245",
     "moving_time": 1305.0,
     "name": "Apple Fitness+ Strength",
-    "raw_activity_type": "Workout",
-    "raw_type": "PhysicalTherapy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
     "start_date_local": "2026-05-04T10:05:49Z",
-    "type": "PhysicalTherapy",
+    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -42061,10 +42061,10 @@
     "id": "18403966788",
     "moving_time": 1242.0,
     "name": "Apple Fitness+ Strength",
-    "raw_activity_type": "Workout",
-    "raw_type": "PhysicalTherapy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
     "start_date_local": "2026-05-06T12:30:07Z",
-    "type": "PhysicalTherapy",
+    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -42230,10 +42230,10 @@
     "id": "18623744654",
     "moving_time": 1261.0,
     "name": "Apple Fitness+ Strength",
-    "raw_activity_type": "Workout",
-    "raw_type": "PhysicalTherapy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
     "start_date_local": "2026-05-23T08:31:21Z",
-    "type": "PhysicalTherapy",
+    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -42269,10 +42269,10 @@
     "id": "18677071074",
     "moving_time": 1209.0,
     "name": "Apple Fitness+ Strength",
-    "raw_activity_type": "Workout",
-    "raw_type": "PhysicalTherapy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
     "start_date_local": "2026-05-27T08:58:55Z",
-    "type": "PhysicalTherapy",
+    "type": "WeightTraining",
     "year": 2026
   },
   {
