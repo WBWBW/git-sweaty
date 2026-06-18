@@ -42430,5 +42430,31 @@
     "start_date_local": "2026-06-15T07:17:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 9139.3,
+    "elevation_gain": 24.8,
+    "id": "18962358035",
+    "moving_time": 3487.0,
+    "name": "Wednesday Morning Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T08:31:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 7207.5,
+    "elevation_gain": 24.7,
+    "id": "18972797126",
+    "moving_time": 2583.0,
+    "name": "On Off Ks \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T07:47:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
