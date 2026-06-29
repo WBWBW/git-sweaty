@@ -42534,5 +42534,18 @@
     "start_date_local": "2026-06-26T18:30:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 14015.3,
+    "elevation_gain": 30.4,
+    "id": "19103022913",
+    "moving_time": 5192.0,
+    "name": "Sunday Lunch Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T11:20:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
