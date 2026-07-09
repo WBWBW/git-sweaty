@@ -42612,5 +42612,31 @@
     "start_date_local": "2026-07-06T05:59:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 10833.3,
+    "elevation_gain": 25.1,
+    "id": "19233930375",
+    "moving_time": 4058.0,
+    "name": "400s into 200s \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-08T12:06:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 9091.1,
+    "elevation_gain": 24.8,
+    "id": "19245242399",
+    "moving_time": 3446.0,
+    "name": "Thursday Morning Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-09T08:43:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
