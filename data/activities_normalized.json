@@ -42690,5 +42690,18 @@
     "start_date_local": "2026-07-15T09:44:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 9180.2,
+    "elevation_gain": 25.0,
+    "id": "19342227853",
+    "moving_time": 3217.0,
+    "name": "Rolling 300s \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-16T13:32:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
