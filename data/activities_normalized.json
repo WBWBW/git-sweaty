@@ -42807,5 +42807,18 @@
     "start_date_local": "2026-07-28T09:30:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 6203.3,
+    "elevation_gain": 14.6,
+    "id": "19530678908",
+    "moving_time": 2050.0,
+    "name": "5km Time Trial \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-30T08:11:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
