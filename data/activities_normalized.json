@@ -42820,5 +42820,18 @@
     "start_date_local": "2026-07-30T08:11:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 8110.8,
+    "elevation_gain": 24.6,
+    "id": "19550439766",
+    "moving_time": 3232.0,
+    "name": "Friday Evening Run \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T20:25:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
