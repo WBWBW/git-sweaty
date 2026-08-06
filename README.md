@@ -6,6 +6,8 @@
   </sub>
 </p>
 
+****Note:** As of July 1, 2026, Strava [no longer allows](https://communityhub.strava.com/insider-journal-9/an-update-to-our-developer-program-13428) API access with free-tier accounts. Strava subscribers can continue using git-sweaty; free users can optionally re-run setup and switch to Garmin as a data source.**
+
 # Workout --> Interactive Dashboard
 
 Turn your Strava and Garmin activities into GitHub-style contribution graphs. Automatically generate a free, interactive dashboard updated daily on GitHub Pages.  
