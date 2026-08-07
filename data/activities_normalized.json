@@ -42859,5 +42859,44 @@
     "start_date_local": "2026-08-03T09:38:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 9117.6,
+    "elevation_gain": 25.0,
+    "id": "19615210678",
+    "moving_time": 3250.0,
+    "name": "Tempo 1200s \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-05T09:02:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 7550.2,
+    "elevation_gain": 33.3,
+    "id": "19629759566",
+    "moving_time": 3112.0,
+    "name": "Thursday Morning Run \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T08:39:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 10515.0,
+    "elevation_gain": 25.1,
+    "id": "19642407809",
+    "moving_time": 3795.0,
+    "name": "Fast 8-4-2s \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-07T07:33:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
