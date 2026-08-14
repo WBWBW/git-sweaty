@@ -42937,5 +42937,18 @@
     "start_date_local": "2026-08-12T09:54:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 7659.4,
+    "elevation_gain": 24.7,
+    "id": "19728560680",
+    "moving_time": 2616.0,
+    "name": "Half Easy, Half Tempo \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-13T10:12:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
