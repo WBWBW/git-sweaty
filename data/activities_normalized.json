@@ -42963,5 +42963,18 @@
     "start_date_local": "2026-08-14T09:19:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 14172.1,
+    "elevation_gain": 34.7,
+    "id": "19774131381",
+    "moving_time": 5142.0,
+    "name": "Sunday Afternoon Run \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T17:54:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
