@@ -42989,5 +42989,18 @@
     "start_date_local": "2026-08-18T08:04:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 6299.2,
+    "elevation_gain": 24.7,
+    "id": "19812540596",
+    "moving_time": 2176.0,
+    "name": "Tempo 3km \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-19T10:14:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
