@@ -43171,5 +43171,31 @@
     "start_date_local": "2026-09-14T06:56:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 9325.6,
+    "elevation_gain": 20.2,
+    "id": "20204423412",
+    "moving_time": 3402.0,
+    "name": "Wednesday Morning Run \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T10:29:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 9137.3,
+    "elevation_gain": 20.3,
+    "id": "20216872073",
+    "moving_time": 3109.0,
+    "name": "Over and Unders 1km \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-17T09:39:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
