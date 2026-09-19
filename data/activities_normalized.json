@@ -43197,5 +43197,18 @@
     "start_date_local": "2026-09-17T09:39:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 7094.3,
+    "elevation_gain": 20.1,
+    "id": "20231886759",
+    "moving_time": 2562.0,
+    "name": "Friday Lunch Run \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-18T13:03:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
