@@ -43210,5 +43210,18 @@
     "start_date_local": "2026-09-18T13:03:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 11013.6,
+    "elevation_gain": 32.9,
+    "id": "20258440419",
+    "moving_time": 3757.0,
+    "name": "11km Progressive Long Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-20T09:04:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
