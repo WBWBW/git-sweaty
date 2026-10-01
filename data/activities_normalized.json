@@ -43301,5 +43301,18 @@
     "start_date_local": "2026-09-30T09:54:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 10871.0,
+    "elevation_gain": 20.3,
+    "id": "20410978479",
+    "moving_time": 4041.0,
+    "name": "400s into 200s \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-01T10:42:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
