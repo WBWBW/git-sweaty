@@ -43353,5 +43353,18 @@
     "start_date_local": "2026-10-05T08:56:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 11054.9,
+    "elevation_gain": 28.1,
+    "id": "20492945184",
+    "moving_time": 4004.0,
+    "name": "Wednesday Morning Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-07T09:57:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
