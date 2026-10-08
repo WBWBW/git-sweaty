@@ -43366,5 +43366,18 @@
     "start_date_local": "2026-10-07T09:57:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 9504.4,
+    "elevation_gain": 23.2,
+    "id": "20506698747",
+    "moving_time": 3281.0,
+    "name": "Tempo 2-1-1 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-08T11:11:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
