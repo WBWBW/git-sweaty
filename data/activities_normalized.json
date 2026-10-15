@@ -43431,5 +43431,18 @@
     "start_date_local": "2026-10-14T10:00:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 9555.7,
+    "elevation_gain": 20.3,
+    "id": "20599231021",
+    "moving_time": 3342.0,
+    "name": "Tempo 2km Repeats \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-15T10:08:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
