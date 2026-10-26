@@ -43509,5 +43509,31 @@
     "start_date_local": "2026-10-23T12:24:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 8055.0,
+    "elevation_gain": 20.2,
+    "id": "20729863795",
+    "moving_time": 2957.0,
+    "name": "Sunday Morning Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T09:23:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 9060.5,
+    "elevation_gain": 20.2,
+    "id": "20740451335",
+    "moving_time": 3334.0,
+    "name": "Monday Morning Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-26T09:02:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
