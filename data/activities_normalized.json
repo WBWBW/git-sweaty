@@ -43548,5 +43548,31 @@
     "start_date_local": "2026-10-28T10:04:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 8209.2,
+    "elevation_gain": 8.5,
+    "id": "20786930319",
+    "moving_time": 3043.0,
+    "name": "Tempo 4km \ud83c\udf27\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T18:41:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 8038.7,
+    "elevation_gain": 42.5,
+    "id": "20793897019",
+    "moving_time": 3054.0,
+    "name": "Friday Morning Run \ud83c\udf27\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-30T06:30:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
