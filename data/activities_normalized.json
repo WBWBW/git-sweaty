@@ -43613,5 +43613,18 @@
     "start_date_local": "2026-11-04T11:13:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 8169.1,
+    "elevation_gain": 20.2,
+    "id": "20873884448",
+    "moving_time": 2866.0,
+    "name": "Rolling 400s \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-05T10:24:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
