@@ -43678,5 +43678,18 @@
     "start_date_local": "2026-11-11T09:56:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 8587.9,
+    "elevation_gain": 11.1,
+    "id": "20962837081",
+    "moving_time": 3082.0,
+    "name": "Pyramid Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-12T09:23:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
