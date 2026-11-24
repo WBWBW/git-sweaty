@@ -43769,5 +43769,18 @@
     "start_date_local": "2026-11-22T10:07:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 6576.5,
+    "elevation_gain": 20.1,
+    "id": "21111197050",
+    "moving_time": 2453.0,
+    "name": "Tuesday Morning Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-24T10:06:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
